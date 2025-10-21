@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Foroggy-YuY/Foroggy-YuY/main/banner.png" width="100%" alt="Airy Banner">
+</p>
 # Hi, I'm Foroggy 👋
 
 I'm building 🌥 **Airy** — an offline voice assistant with a soul.  
