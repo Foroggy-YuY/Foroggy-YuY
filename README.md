@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Foroggy-YuY/Foroggy-YuY/main/banner.png" width="100%" alt="Airy Banner">
 </p>
 <br><br>
-# Hi, I'm Foroggy 👋
+Hi, I'm Foroggy 👋
 
 I'm building 🌥 **Airy** — an offline voice assistant with a soul.  
 No ads, no cloud — just you and Airy.
