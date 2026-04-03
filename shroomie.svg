@@ -7,7 +7,7 @@
 </defs>
 
   <!-- background -->
-  <rect width="2048" height="2048" fill="rgb(255,255,255)"/>
+  
 
   <!-- main outline / drop shadow -->
   <g id="outline">
