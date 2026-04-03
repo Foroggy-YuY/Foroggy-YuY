@@ -1,0 +1,20 @@
+<svg width="800" height="20" viewBox="0 0 800 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- left line -->
+  <line x1="0" y1="10" x2="362" y2="10" stroke="#A690C8" stroke-width="0.5" opacity="0.4"/>
+  <!-- dot -->
+  <circle cx="368" cy="10" r="1.5" fill="#C49BB8" opacity="0.65"/>
+  <!-- small diamond -->
+  <rect x="373.5" y="7.5" width="5" height="5" rx="1" transform="rotate(45 376 10)" fill="#A690C8" opacity="0.75"/>
+  <!-- dot -->
+  <circle cx="383" cy="10" r="1.5" fill="#C49BB8" opacity="0.65"/>
+  <!-- large diamond -->
+  <rect x="387.5" y="6.5" width="7" height="7" rx="1" transform="rotate(45 391 10)" fill="#A690C8"/>
+  <!-- dot -->
+  <circle cx="399" cy="10" r="1.5" fill="#C49BB8" opacity="0.65"/>
+  <!-- small diamond -->
+  <rect x="403.5" y="7.5" width="5" height="5" rx="1" transform="rotate(45 406 10)" fill="#A690C8" opacity="0.75"/>
+  <!-- dot -->
+  <circle cx="413" cy="10" r="1.5" fill="#C49BB8" opacity="0.65"/>
+  <!-- right line -->
+  <line x1="419" y1="10" x2="800" y2="10" stroke="#A690C8" stroke-width="0.5" opacity="0.4"/>
+</svg>
